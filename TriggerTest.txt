@@ -1,0 +1,1 @@
+To test if auto trigger is working fine 
